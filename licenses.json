@@ -1,6 +1,6 @@
 {
   "devices": {
-    "PNPS-69R2-B5GD-RXM7": "free",
+    "PNPS-69R2-B5GD-RXM7": "personal",
     "7K2M-Q9XD-4TPA-R1HW": {"tier": "pro", "until": "2027-06-30"}
   }
 }
